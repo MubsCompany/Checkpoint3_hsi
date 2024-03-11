@@ -41,7 +41,6 @@ import androidx.compose.animation.fadeOut
 import androidx.compose.material.icons.rounded.Menu
 import androidx.compose.runtime.remember
 
-
 @Composable
     fun PersonListItem(
         person: Person,
@@ -124,7 +123,7 @@ import androidx.compose.runtime.remember
                     PersonListItem(
                         person = item,
                         modifier = Modifier
-                            .padding(horizontal = 16.dp, vertical = 16.dp)
+                            .padding(horizontal = 16.dp, vertical = 8.dp)
                             .animateEnterExit(
                                 enter = slideInVertically(
                                     animationSpec = spring(
