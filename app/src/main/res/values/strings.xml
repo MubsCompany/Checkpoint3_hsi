@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Checkpoint3_hsi</string>
+    <string name="person1_name">Aisyah</string>
+    <string name="person2_name">Adinda</string>
+    <string name="person3_name">Indriani</string>
+    <string name="person4_name">Chandra</string>
+    <string name="person5_name">Ummu Sualim</string>
+    <string name="person6_name">Adinda</string>
+    <string name="person7_name">Windriani</string>
+    <string name="person8_name">Zainab</string>
+
+    <string name="person1_code">(HTS-00001)</string>
+    <string name="person2_code">(HTS-00002)</string>
+    <string name="person3_code">(HTS-00003)</string>
+    <string name="person4_code">(HTS-00004)</string>
+    <string name="person5_code">(HTS-00005)</string>
+    <string name="person6_code">(HTS-00006)</string>
+    <string name="person7_code">(HTS-00007)</string>
+    <string name="person8_code">(HTS-00008)</string>
+
+    <string name="person1_age">18 tahun</string>
+    <string name="person2_age">21 tahun</string>
+    <string name="person3_age">19 tahun</string>
+    <string name="person4_age">25 tahun</string>
+    <string name="person5_age">27 tahun</string>
+    <string name="person6_age">21 tahun</string>
+    <string name="person7_age">19 tahun</string>
+    <string name="person8_age">25 tahun</string>
+
+    <string name="person1_hometown">18 tahun</string>
+    <string name="person2_hometown">21 tahun</string>
+    <string name="person3_hometown">19 tahun</string>
+    <string name="person4_hometown">25 tahun</string>
+    <string name="person5_hometown">27 tahun</string>
+    <string name="person6_hometown">21 tahun</string>
+    <string name="person7_hometown">19 tahun</string>
+    <string name="person8_hometown">25 tahun</string>
+    <string name="strip">-</string>
+    <string name="pencarian_calon_pasangan">Pencarian Calon Pasangan</string>
+    <string name="menu">menu</string>
+    <string name="profil_profil_berikut_adalah_para_peserta_yang_telah_disesuaikan_dengan_preferensimu">Profil-profil berikut adalah para peserta yang telah disesuaikan dengan preferensimu</string>
+
+</resources>
